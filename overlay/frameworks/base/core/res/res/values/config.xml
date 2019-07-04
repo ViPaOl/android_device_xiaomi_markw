@@ -569,5 +569,11 @@
     <bool name="config_swipe_up_gesture_setting_available">true</bool>
     <dimen name="config_dialogCornerRadius">8.0dip</dimen>
     <dimen name="config_buttonCornerRadius">4.0dip</dimen>
+	
+    <!-- Enable NightLight -->
+    <bool name="config_nightDisplayAvailable">true</bool>
+
+    <!-- Whether auto face unlock is enabled by default -->
+    <bool name="config_autoFaceUnlockEnabledByDefault">true</bool>
 
 </resources>
