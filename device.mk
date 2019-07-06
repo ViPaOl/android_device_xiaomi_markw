@@ -165,10 +165,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI
 
-# Device-specific settings
-PRODUCT_PACKAGES += \
-    AdvancedControls
-
 # Display
 PRODUCT_PACKAGES += \
     copybit.msm8953 \
